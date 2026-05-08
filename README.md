@@ -1,4 +1,4 @@
-# Blazor DataGrid - CRUD Operations
+# CRUD operation in Blazor DataGrid component using Entity Framework and Web API
 
 A full-stack Blazor Web application demonstrating CRUD operations on a [Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) using Entity Framework Core, SQL Server, and Web API. This sample showcases modern data management patterns with a responsive Blazor DataGrid component.
 
