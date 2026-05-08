@@ -1,10 +1,10 @@
 # Blazor WebAssembly DataGrid with CRUD Operations
 
-A full-stack Blazor Web application demonstrating CRUD operations on a [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) using Entity Framework Core, SQL Server, and Web API. This sample showcases modern data management patterns with a responsive Syncfusion DataGrid component.
+A full-stack Blazor Web application demonstrating CRUD operations on a [Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) using Entity Framework Core, SQL Server, and Web API. This sample showcases modern data management patterns with a responsive Blazor DataGrid component.
 
 ## Overview
 
-This project demonstrates a complete CRUD (Create, Read, Update, Delete) workflow using [Syncfusion DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) in a Blazor Web application. The sample includes:
+This project demonstrates a complete CRUD (Create, Read, Update, Delete) workflow using [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) in a Blazor Web application. The sample includes:
 
 - A responsive DataGrid component for data visualization and management
 - RESTful Web API endpoints for server-side CRUD operations
