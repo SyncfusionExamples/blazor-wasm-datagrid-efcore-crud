@@ -27,7 +27,7 @@ This project demonstrates a complete CRUD (Create, Read, Update, Delete) workflo
 
 ## Getting Started
 
-### Clone the Repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/SyncfusionExamples/blazor-wasm-datagrid-efcore-crud.git
