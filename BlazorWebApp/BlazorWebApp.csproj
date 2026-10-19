@@ -9,7 +9,7 @@
   <ItemGroup>
     <ProjectReference Include="..\BlazorWebApp.Client\BlazorWebApp.Client.csproj" />
     <ProjectReference Include="..\BlazorWebApp.Shared\BlazorWebApp.Shared.csproj" />
-    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="8.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="8.0.32" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.0">
       <PrivateAssets>all</PrivateAssets>
